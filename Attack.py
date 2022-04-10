@@ -792,7 +792,7 @@ def main():
 				main()
 			except socket.gaierror:
 				main()
-		elif sinput == "synraw
+		elif sinput == "synraw"
 			try:
 				if running >= 1:
 					print("\033[97mYou have reached your concurrents limit and must wait for your cooldown period to end.")
